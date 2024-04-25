@@ -31,14 +31,7 @@ public class Question1 {
 		boolean b =pallindrome_check(a);
 		System.out.println(b);
 		
-		//for true scenario
-		/* Enter word
-		 * abba
-		 * true*/
-		//for false scenario
-		/* Enter word
-		 * fame
-		 * false*/
+		
 	}
 	
 }
